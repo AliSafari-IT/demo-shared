@@ -1,7 +1,7 @@
 {
   "name": "demo-shared",
   "version": "1.0.0",
-  "description": "React TypeScript application",
+  "description": "Demo for @asafarim/shared and @asafarim/react-themes",
   "private": true,
   "main": "src/index.tsx",
   "scripts": {
