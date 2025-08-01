@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "@asafarim/react-themes": "^1.5.0",
-    "@asafarim/shared": "^1.6.0",
+    "@asafarim/shared": "^1.6.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
